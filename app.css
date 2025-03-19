@@ -26,3 +26,15 @@ body {
   height: 500px;
   object-fit: cover;
 }
+
+.img-fluid {
+  max-width: 200%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#title-head {
+  font-weight: 100;
+  font-size: 4rem;
+}
